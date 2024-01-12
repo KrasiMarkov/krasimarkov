@@ -1,6 +1,6 @@
 ![MasterHead](https://images4.alphacoders.com/130/1307940.png)
 <h1 align="center">Hi 👋, I'm Krasimir Markov</h1>
-<h3 align="center">A passionate fullstack developer from Bulgaria.</h3>
+<h3 align="center">A passionate web developer from Bulgaria</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krasimarkov&label=Profile%20views&color=0e75b6&style=flat" alt="krasimarkov" /> </p>
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://krasimarkov-78dcf.web.app/](https://krasimarkov-78dcf.web.app/)
 
-- 💬 Ask me about **.NET, JavaScript, React**
+- 💬 Ask me about **C#.NET, JavaScript, React**
 
 - 📫 How to reach me **krasimarkov5@gmail.com**
 
